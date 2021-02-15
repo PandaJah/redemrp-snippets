@@ -1,0 +1,18 @@
+{
+    "name": "redemrp-snippets",
+    "displayName": "redemrp-snippets",
+    "description": "redemrp-snippets for redemrp",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+
+    "publisher": "shruog",
+    "snippets": [{
+        "language": "lua",
+        "path": "./snippets/snippets.code-snippets"
+    }]
+}
