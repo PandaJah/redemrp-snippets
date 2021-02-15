@@ -32,7 +32,7 @@ redemrp.notification
 
 user.p
 
-![user player list](images/player.gif)
+![user player list](https://github.com/shruog/redemrp-snippets/blob/main/player.gif)
 
 ### Prefix to see a list of all class roleplayer options
 
