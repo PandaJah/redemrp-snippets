@@ -38,7 +38,7 @@ user.p
 
 user.rp
 
-![user roleplayer list](images/roleplay.gif)
+![user roleplayer list](https://github.com/shruog/redemrp-snippets/blob/main/player.gif)
 
 **(You can use TAB to move the cursor between the code without having to select)**
 
