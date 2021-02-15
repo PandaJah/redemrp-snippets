@@ -125,6 +125,6 @@ redemrp.notifcation
 1. menu_base.getData 
 2. menu_base.example
 
-#### If you have feedback, need help or you like put a help prefix in your language send me direct message in discord: 
+### If you have feedback, need help or you like put a help prefix in your language send me direct message in discord: 
 **Shruog#2358**
 
